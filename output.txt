@@ -1,0 +1,4 @@
+
+Danh sách học viên sau khi sắp xếp:
+Mã SV,Họ và Tên,Giới tính,Điểm Python,Điểm Java,Điểm TB,Kết quả
+22Git123   Phu quoc             Nam   7.0        7.0        7.0        Đậu  
